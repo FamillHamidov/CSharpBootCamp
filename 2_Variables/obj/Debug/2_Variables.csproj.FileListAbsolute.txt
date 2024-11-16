@@ -1,0 +1,7 @@
+D:\Project\BootCamp\2_Variables\bin\Debug\2_Variables.exe.config
+D:\Project\BootCamp\2_Variables\bin\Debug\2_Variables.exe
+D:\Project\BootCamp\2_Variables\bin\Debug\2_Variables.pdb
+D:\Project\BootCamp\2_Variables\obj\Debug\2_Variables.csproj.AssemblyReference.cache
+D:\Project\BootCamp\2_Variables\obj\Debug\2_Variables.csproj.CoreCompileInputs.cache
+D:\Project\BootCamp\2_Variables\obj\Debug\2_Variables.exe
+D:\Project\BootCamp\2_Variables\obj\Debug\2_Variables.pdb

@@ -1,0 +1,7 @@
+D:\Project\BootCamp\1_MainSubject\bin\Debug\1_MainSubject.exe.config
+D:\Project\BootCamp\1_MainSubject\bin\Debug\1_MainSubject.exe
+D:\Project\BootCamp\1_MainSubject\bin\Debug\1_MainSubject.pdb
+D:\Project\BootCamp\1_MainSubject\obj\Debug\1_MainSubject.csproj.AssemblyReference.cache
+D:\Project\BootCamp\1_MainSubject\obj\Debug\1_MainSubject.csproj.CoreCompileInputs.cache
+D:\Project\BootCamp\1_MainSubject\obj\Debug\1_MainSubject.exe
+D:\Project\BootCamp\1_MainSubject\obj\Debug\1_MainSubject.pdb
