@@ -128,22 +128,22 @@ namespace _2_Variables
 
             #region Decimal Number Operations from the Keyboard
 
-            double exam1, exam2, exam3, result;
+            //double exam1, exam2, exam3, result;
 
-            Console.WriteLine("Please enter your 1st Exam grade: ");
-            exam1 =double.Parse(Console.ReadLine());
-            Console.WriteLine();
+            //Console.WriteLine("Please enter your 1st Exam grade: ");
+            //exam1 =double.Parse(Console.ReadLine());
+            //Console.WriteLine();
 
-            Console.WriteLine("Please enter your 2st Exam grade: ");
-            exam2 =double.Parse(Console.ReadLine());
-            Console.WriteLine();
+            //Console.WriteLine("Please enter your 2st Exam grade: ");
+            //exam2 =double.Parse(Console.ReadLine());
+            //Console.WriteLine();
 
-            Console.WriteLine("Please enter your 3st Exam grade: ");
-            exam3 =double.Parse(Console.ReadLine());
-            Console.WriteLine();
+            //Console.WriteLine("Please enter your 3st Exam grade: ");
+            //exam3 =double.Parse(Console.ReadLine());
+            //Console.WriteLine();
 
-            result = (exam1 + exam2 + exam3) / 3;
-            Console.WriteLine("Your Exam Average: "+result);
+            //result = (exam1 + exam2 + exam3) / 3;
+            //Console.WriteLine("Your Exam Average: "+result);
             #endregion
 
             Console.Read();
