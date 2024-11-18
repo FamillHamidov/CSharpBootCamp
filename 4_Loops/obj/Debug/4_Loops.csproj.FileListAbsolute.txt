@@ -1,0 +1,7 @@
+D:\Project\BootCamp\4_Loops\bin\Debug\4_Loops.exe.config
+D:\Project\BootCamp\4_Loops\bin\Debug\4_Loops.exe
+D:\Project\BootCamp\4_Loops\bin\Debug\4_Loops.pdb
+D:\Project\BootCamp\4_Loops\obj\Debug\4_Loops.csproj.AssemblyReference.cache
+D:\Project\BootCamp\4_Loops\obj\Debug\4_Loops.csproj.CoreCompileInputs.cache
+D:\Project\BootCamp\4_Loops\obj\Debug\4_Loops.exe
+D:\Project\BootCamp\4_Loops\obj\Debug\4_Loops.pdb

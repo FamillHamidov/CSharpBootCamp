@@ -284,40 +284,40 @@ namespace _3_MakingDecision
 
             #region Calculator with switch case
 
-            int number1, number2, result;
-            char symbol;
+            //int number1, number2, result;
+            //char symbol;
 
-            Console.Write("Enter first number: ");
-            number1 = int.Parse(Console.ReadLine());
+            //Console.Write("Enter first number: ");
+            //number1 = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter second number: ");
-            number2 = int.Parse(Console.ReadLine());
+            //Console.Write("Enter second number: ");
+            //number2 = int.Parse(Console.ReadLine());
 
-            Console.Write("Select the operation: ");
-            symbol = char.Parse(Console.ReadLine());
+            //Console.Write("Select the operation: ");
+            //symbol = char.Parse(Console.ReadLine());
 
-            switch (symbol)
-            {
-                case '+':
-                    result = number1 + number2;
-                    Console.WriteLine(result);
-                    break;
-                case '-':
-                    result = number1 - number2;
-                    Console.WriteLine(result);
-                    break;
-                case '*':
-                    result = number1 * number2;
-                    Console.WriteLine(result);
-                    break;
-                case '/':
-                    result = number1 / number2;
-                    Console.WriteLine(result);
-                    break;
-                default:
-                    Console.WriteLine("Operation incorrect");
-                    break;
-            }
+            //switch (symbol)
+            //{
+            //    case '+':
+            //        result = number1 + number2;
+            //        Console.WriteLine(result);
+            //        break;
+            //    case '-':
+            //        result = number1 - number2;
+            //        Console.WriteLine(result);
+            //        break;
+            //    case '*':
+            //        result = number1 * number2;
+            //        Console.WriteLine(result);
+            //        break;
+            //    case '/':
+            //        result = number1 / number2;
+            //        Console.WriteLine(result);
+            //        break;
+            //    default:
+            //        Console.WriteLine("Operation incorrect");
+            //        break;
+            //}
 
             #endregion
 
