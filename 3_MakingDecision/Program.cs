@@ -163,7 +163,163 @@ namespace _3_MakingDecision
 
             #endregion
 
-            
+            #region Project
+
+            //Console.WriteLine("*****    Restaurant    *****");
+            //Console.WriteLine();
+            //Console.WriteLine("----------------------------");
+            //Console.WriteLine("İsti yemekler");
+            //Console.WriteLine("Sorbalar");
+            //Console.WriteLine("Pizzalar");
+            //Console.WriteLine("İckiler");
+            //Console.WriteLine("Desertler");
+            //Console.WriteLine("----------------------------");
+
+
+            //string menuItem;
+
+            //Console.Write("Select Menu: ");
+            //menuItem = Console.ReadLine();
+
+            //if (menuItem=="1")
+            //{
+            //    Console.WriteLine();
+            //    Console.WriteLine("----------   İsti yemekler   ----------");
+            //    Console.WriteLine();
+            //    Console.WriteLine("Toyuq langeti");
+            //    Console.WriteLine("Et langeti");
+            //    Console.WriteLine("Medalyon");
+            //    Console.WriteLine("Sac Qarisiq");
+            //}
+            //if (menuItem=="2")
+            //{
+            //    Console.WriteLine();
+            //    Console.WriteLine("----------   Sorbalar   ----------");
+            //    Console.WriteLine();
+            //    Console.WriteLine("Merci sorbasi");
+            //    Console.WriteLine("Gobelek sorbasi");
+            //    Console.WriteLine("Tomat sorbasi");
+            //}
+            //if (menuItem == "3")
+            //{
+            //    Console.WriteLine();
+            //    Console.WriteLine("----------   Pizzalar   ----------");
+            //    Console.WriteLine();
+            //    Console.WriteLine("Pizza Margarita");
+            //    Console.WriteLine("Pizza Qarisiq");
+            //    Console.WriteLine("Pizza Peperoni");
+            //    Console.WriteLine("Pizza Sezar");
+            //}
+            //if (menuItem == "4")
+            //{
+            //    Console.WriteLine();
+            //    Console.WriteLine("----------   İckiler   ----------");
+            //    Console.WriteLine();
+            //    Console.WriteLine("Cola/Fanta/Sprite");
+            //    Console.WriteLine("Redbul");
+            //    Console.WriteLine("İce Tea");
+            //    Console.WriteLine("Meyve siresi");
+            //}
+            //if (menuItem == "5")
+            //{
+            //    Console.WriteLine();
+            //    Console.WriteLine("----------   Desertler   ----------");
+            //    Console.WriteLine();
+            //    Console.WriteLine("Tiramisu");
+            //    Console.WriteLine("CheeseCake");
+            //    Console.WriteLine("Dondurma");
+            //    Console.WriteLine("Meyve Seti");
+            //}
+
+            #endregion
+
+            #region Switch Case
+
+            //Console.Write("Please enter month: ");
+            //int monthNumber = int.Parse(Console.ReadLine());
+
+            //switch (monthNumber)
+            //{
+            //    case 1:
+            //        Console.WriteLine("January");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("February");
+            //        break;
+            //    case 3:
+            //        Console.WriteLine("March");
+            //        break;
+            //    case 4:
+            //        Console.WriteLine("April");
+            //        break;
+            //    case 5:
+            //        Console.WriteLine("May");
+            //        break;
+            //    case 6:
+            //        Console.WriteLine("June");
+            //        break;
+            //    case 7:
+            //        Console.WriteLine("July");
+            //        break;
+            //    case 8:
+            //        Console.WriteLine("August");
+            //        break;
+            //    case 9:
+            //        Console.WriteLine("September");
+            //        break;
+            //    case 10:
+            //        Console.WriteLine("October");
+            //        break;
+            //    case 11:
+            //        Console.WriteLine("November");
+            //        break;
+            //    case 12:
+            //        Console.WriteLine("December");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Number incorrect");
+            //        break;
+            //}
+            #endregion
+
+            #region Calculator with switch case
+
+            int number1, number2, result;
+            char symbol;
+
+            Console.Write("Enter first number: ");
+            number1 = int.Parse(Console.ReadLine());
+
+            Console.Write("Enter second number: ");
+            number2 = int.Parse(Console.ReadLine());
+
+            Console.Write("Select the operation: ");
+            symbol = char.Parse(Console.ReadLine());
+
+            switch (symbol)
+            {
+                case '+':
+                    result = number1 + number2;
+                    Console.WriteLine(result);
+                    break;
+                case '-':
+                    result = number1 - number2;
+                    Console.WriteLine(result);
+                    break;
+                case '*':
+                    result = number1 * number2;
+                    Console.WriteLine(result);
+                    break;
+                case '/':
+                    result = number1 / number2;
+                    Console.WriteLine(result);
+                    break;
+                default:
+                    Console.WriteLine("Operation incorrect");
+                    break;
+            }
+
+            #endregion
 
 
             Console.Read();
