@@ -123,26 +123,25 @@ namespace _4_Loops
 
             #region Project
 
+            //Console.Write("Enter number: ");
+            //int number = int.Parse(Console.ReadLine());
+            //int ones, tens, hundreds;
+            //int sum;
 
-            Console.Write("Enter number: ");
-            int number = int.Parse(Console.ReadLine());
-            int ones, tens, hundreds;
-            int sum;
+            //ones = number % 10;
+            //tens = (number % 100) / 10;
+            //hundreds = number / 100;
 
-            ones = number % 10;
-            tens = (number % 100) / 10;
-            hundreds = number / 100;
+            //Console.Write("Ones: " + ones);
+            //Console.WriteLine();
+            //Console.Write("Tens: " + tens);
+            //Console.WriteLine();
+            //Console.Write("Hundreds: " + hundreds);
+            //Console.WriteLine();
 
-            Console.Write("Ones: " + ones);
-            Console.WriteLine();
-            Console.Write("Tens: " + tens);
-            Console.WriteLine();
-            Console.Write("Hundreds: " + hundreds);
-            Console.WriteLine();
+            //sum = ones + tens + hundreds;
 
-            sum = ones + tens + hundreds;
-
-            Console.WriteLine(sum);
+            //Console.WriteLine(sum);
 
             #endregion
 

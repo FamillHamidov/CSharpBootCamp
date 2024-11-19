@@ -1,0 +1,7 @@
+D:\Project\BootCamp\5_LoopWithStars\bin\Debug\5_LoopWithStars.exe.config
+D:\Project\BootCamp\5_LoopWithStars\bin\Debug\5_LoopWithStars.exe
+D:\Project\BootCamp\5_LoopWithStars\bin\Debug\5_LoopWithStars.pdb
+D:\Project\BootCamp\5_LoopWithStars\obj\Debug\5_LoopWithStars.csproj.AssemblyReference.cache
+D:\Project\BootCamp\5_LoopWithStars\obj\Debug\5_LoopWithStars.csproj.CoreCompileInputs.cache
+D:\Project\BootCamp\5_LoopWithStars\obj\Debug\5_LoopWithStars.exe
+D:\Project\BootCamp\5_LoopWithStars\obj\Debug\5_LoopWithStars.pdb
