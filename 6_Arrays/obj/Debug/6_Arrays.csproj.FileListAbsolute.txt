@@ -1,0 +1,7 @@
+D:\Project\BootCamp\6_Arrays\bin\Debug\6_Arrays.exe.config
+D:\Project\BootCamp\6_Arrays\bin\Debug\6_Arrays.exe
+D:\Project\BootCamp\6_Arrays\bin\Debug\6_Arrays.pdb
+D:\Project\BootCamp\6_Arrays\obj\Debug\6_Arrays.csproj.AssemblyReference.cache
+D:\Project\BootCamp\6_Arrays\obj\Debug\6_Arrays.csproj.CoreCompileInputs.cache
+D:\Project\BootCamp\6_Arrays\obj\Debug\6_Arrays.exe
+D:\Project\BootCamp\6_Arrays\obj\Debug\6_Arrays.pdb

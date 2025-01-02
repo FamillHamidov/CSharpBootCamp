@@ -100,13 +100,10 @@ namespace _5_LoopWithStars
 
             for (int i = 9; i >= 1; i--)
             {
-                //boşluklar
                 for (int j = 10 - i; j > 0; j--)
                 {
                     Console.Write(" ");
                 }
-
-                //yıldızlar
                 for (int k = 1; k <= 2 * i - 1; k++)
                 {
                     Console.Write("*");

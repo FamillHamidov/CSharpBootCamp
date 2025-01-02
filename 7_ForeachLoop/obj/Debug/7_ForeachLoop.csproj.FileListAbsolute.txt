@@ -1,0 +1,7 @@
+D:\Project\BootCamp\7_ForeachLoop\bin\Debug\7_ForeachLoop.exe.config
+D:\Project\BootCamp\7_ForeachLoop\bin\Debug\7_ForeachLoop.exe
+D:\Project\BootCamp\7_ForeachLoop\bin\Debug\7_ForeachLoop.pdb
+D:\Project\BootCamp\7_ForeachLoop\obj\Debug\7_ForeachLoop.csproj.AssemblyReference.cache
+D:\Project\BootCamp\7_ForeachLoop\obj\Debug\7_ForeachLoop.csproj.CoreCompileInputs.cache
+D:\Project\BootCamp\7_ForeachLoop\obj\Debug\7_ForeachLoop.exe
+D:\Project\BootCamp\7_ForeachLoop\obj\Debug\7_ForeachLoop.pdb
