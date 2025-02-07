@@ -1,0 +1,7 @@
+D:\Project\BootCamp\8_Methods\bin\Debug\8_Methods.exe.config
+D:\Project\BootCamp\8_Methods\bin\Debug\8_Methods.exe
+D:\Project\BootCamp\8_Methods\bin\Debug\8_Methods.pdb
+D:\Project\BootCamp\8_Methods\obj\Debug\8_Methods.csproj.AssemblyReference.cache
+D:\Project\BootCamp\8_Methods\obj\Debug\8_Methods.csproj.CoreCompileInputs.cache
+D:\Project\BootCamp\8_Methods\obj\Debug\8_Methods.exe
+D:\Project\BootCamp\8_Methods\obj\Debug\8_Methods.pdb
