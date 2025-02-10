@@ -111,20 +111,20 @@ namespace _8_Methods
 
             #region Sample App
 
-            string ExamResult(string studentName, int exam1, int exam2, int exam3)
-            {
-                int examResult = (exam1 + exam2 + exam3) / 3;
-                if (examResult>50)
-                {
-                    return studentName + " exam passed successfuly";
-                }
-                else
-                {
-                    return studentName + " failed the exam";
-                }
-            }
+            //string ExamResult(string studentName, int exam1, int exam2, int exam3)
+            //{
+            //    int examResult = (exam1 + exam2 + exam3) / 3;
+            //    if (examResult>50)
+            //    {
+            //        return studentName + " exam passed successfuly";
+            //    }
+            //    else
+            //    {
+            //        return studentName + " failed the exam";
+            //    }
+            //}
 
-            Console.WriteLine(ExamResult("Famil", 50,75,66));
+            //Console.WriteLine(ExamResult("Famil", 50,75,66));
             #endregion
 
 

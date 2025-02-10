@@ -1,0 +1,7 @@
+D:\Project\BootCamp\9_DatabaseProject\bin\Debug\9_DatabaseProject.exe.config
+D:\Project\BootCamp\9_DatabaseProject\bin\Debug\9_DatabaseProject.exe
+D:\Project\BootCamp\9_DatabaseProject\bin\Debug\9_DatabaseProject.pdb
+D:\Project\BootCamp\9_DatabaseProject\obj\Debug\9_DatabaseProject.csproj.AssemblyReference.cache
+D:\Project\BootCamp\9_DatabaseProject\obj\Debug\9_DatabaseProject.csproj.CoreCompileInputs.cache
+D:\Project\BootCamp\9_DatabaseProject\obj\Debug\9_DatabaseProject.exe
+D:\Project\BootCamp\9_DatabaseProject\obj\Debug\9_DatabaseProject.pdb
