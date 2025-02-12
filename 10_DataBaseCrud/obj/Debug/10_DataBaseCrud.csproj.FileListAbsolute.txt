@@ -1,0 +1,7 @@
+D:\Project\BootCamp\10_DataBaseCrud\bin\Debug\10_DataBaseCrud.exe.config
+D:\Project\BootCamp\10_DataBaseCrud\bin\Debug\10_DataBaseCrud.exe
+D:\Project\BootCamp\10_DataBaseCrud\bin\Debug\10_DataBaseCrud.pdb
+D:\Project\BootCamp\10_DataBaseCrud\obj\Debug\10_DataBaseCrud.csproj.AssemblyReference.cache
+D:\Project\BootCamp\10_DataBaseCrud\obj\Debug\10_DataBaseCrud.csproj.CoreCompileInputs.cache
+D:\Project\BootCamp\10_DataBaseCrud\obj\Debug\10_DataBaseCrud.exe
+D:\Project\BootCamp\10_DataBaseCrud\obj\Debug\10_DataBaseCrud.pdb
